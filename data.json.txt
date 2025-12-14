@@ -1,0 +1,52 @@
+{
+  "casinos": [
+    {
+      "id": 1,
+      "name": "SpinBetter",
+      "bonus": "200% up to €1500 + 200 Free Spins",
+      "sub": "Wagering: 35x • Min deposit: €10",
+      "license": "MGA",
+      "payments": ["Visa", "Mastercard", "Skrill", "Crypto"],
+      "tags": ["Big bonus", "Fast payouts"],
+      "geoAvailable": ["IT", "DE"],
+      "rating": 4.6,
+      "popular": 92,
+      "latest": "2025-11-25",
+      "badge": "Exclusive",
+      "playUrl": "#",
+      "reviewUrl": "#"
+    },
+    {
+      "id": 2,
+      "name": "Rooli",
+      "bonus": "100% up to €500 + 100 Free Spins",
+      "sub": "Wagering: 35x • Min deposit: €20",
+      "license": "MGA",
+      "payments": ["Visa", "Skrill", "Crypto"],
+      "tags": ["Low wagering", "Fast payouts"],
+      "geoAvailable": ["IT"],
+      "rating": 4.1,
+      "popular": 70,
+      "latest": "2025-09-18",
+      "badge": "Trending",
+      "playUrl": "#",
+      "reviewUrl": "#"
+    },
+    {
+      "id": 3,
+      "name": "Dream Vegas",
+      "bonus": "100% up to €500 + VIP offers",
+      "sub": "Wagering: 40x • Min deposit: €10",
+      "license": "UKGC",
+      "payments": ["Visa", "Mastercard", "Neteller"],
+      "tags": ["Fast payouts"],
+      "geoAvailable": ["DE"],
+      "rating": 4.2,
+      "popular": 73,
+      "latest": "2025-11-17",
+      "badge": "VIP",
+      "playUrl": "#",
+      "reviewUrl": "#"
+    }
+  ]
+}
